@@ -1,5 +1,5 @@
 {
-    "name": "aula 99 e 103 4b",
+    "name": "aula103e104Napratica21",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "7.0.42",
+        "target": "7.0.51",
         "targetId": "microbit"
     },
     "supportedTargets": [
